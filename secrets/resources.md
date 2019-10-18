@@ -15,7 +15,7 @@
 - [_The Art of Google Books_](https://theartofgooglebooks.tumblr.com/), Krissy Wilson – 2011
 - [_Nested_](http://orteil.dashnet.org/nested), Orteil – 2011-2013
 - [_Between Page and Screen_](https://www.betweenpageandscreen.com/), Amaranth Borsuk & Brad Bouse – 2012
-- [_Excerpt for Country Ball 1989](http://jacolby.com/artwork/2890807_Excerpt_for_Country_Ball_1989_2012.html), Jacolby Satterwhite – 2012
+- [_Excerpt for Country Ball 1989_](http://jacolby.com/artwork/2890807_Excerpt_for_Country_Ball_1989_2012.html), Jacolby Satterwhite – 2012
 - [_Vniverse_](http://vniverse.com/), Stephanie Strickland & Ian Hatcher – 2014
 - [_W8ING_](http://jacket2.org/commentary/first-reading-sophia-le-fragas-w8ing-4-3), Sophia Le Fraga – 2014
 - [_ABRA_](http://www.a-b-r-a.com/), Kate Durbin, Amaranth Borsuk, & Ian Hatcher – 2015
