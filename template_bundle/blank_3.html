@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> TITLE </title>
+
+		<style type="text/css">
+			
+				@keyframes blink {  
+      	0% { opacity: 1.0; }
+      	50% { opacity: 0.0; }
+      	100% { opacity: 1.0; }
+    }
+
+    @-webkit-keyframes blink {
+      0% { opacity: 1.0; }
+      50% { opacity: 0.0; }
+      100% { opacity: 1.0; }
+    }
+    .blink {
+      animation: blink 1.5s step-start 0s infinite;
+      -webkit-animation: blink 1.5s step-start 0s infinite;
+    }
+
+		body {
+			font-size:55px;
+			font-stretch: expanded;
+			font-family: 'Perpetua';
+			font-style: Italic;
+			margin: 100px auto;
+			text-align: center;
+			margin-top: 260px;
+			color: sienna;
+		}
+
+	
+		</style>
+	</head>
+	<body>
+		<span class="blink">words go here</span>
+		<script type="text/javascript">
+
+		</script>
+
+	</body>
+</html>

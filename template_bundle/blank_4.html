@@ -1,0 +1,38 @@
+<html>
+<head>
+	<title>TITLE GOES HERE</title>
+	<script type="text/javascript">
+	source = "INSERT YOUR SOURCE TEXT HERE! THIS WILL BE YOUR SOURCE TEXT!";
+	
+	window.onload = function() {
+	
+		drawish();
+	}
+	
+	function drawish() {
+	delimiter = " ";
+	source2 = source.split(delimiter);
+	radius = 100;
+	angle=30;
+	centerx = (window.innerWidth/2) - (radius/2);
+	centery = (window.innerHeight/2) - (radius/2);
+		for(i=0;i<source2.length;i++)	{
+				flower = document.createElement('div');
+				flower.setAttribute('id', 'flower'+i);
+				flower.setAttribute('style','position: absolute; top:' + Math.floor(Math.random()*window.innerHeight-50)+ 'px; left: '+ Math.floor(Math.random()*window.innerWidth-50)+ 'px;');
+				flower.innerHTML= source2[i];
+				document.body.appendChild(flower);
+				angle+=360/source2.length;
+			
+		
+		}
+		
+
+	}
+	
+	</script>
+</head>
+<body>
+
+</body>
+</html>
