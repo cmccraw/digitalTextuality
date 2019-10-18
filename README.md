@@ -54,7 +54,7 @@ HUMAN</br>
 → How do you engage with text in digital spaces in your daily life?</br>
 → What is a digital reader/user’s physical relationship to their text? To your text?</br>
 → What boundaries are you working within? Rejecting?</br>
-→ Which digital practices— literary, and non— is this work informed by? Responding to?</br></br>
+→ Which digital practices— literary, and non— is this work informed by? Responding to?</br>
 
 //</br>
 
