@@ -4,6 +4,7 @@
 
 - [_Colossal Cave Adventure_](https://www.amc.com/shows/halt-and-catch-fire/colossal-cave-adventure/landing), Will Crowther – 1975-1977
 - [_The Policeman's Beard is Half Constructed_](http://ubutext.memoryoftheworld.org/racter/racter_policemansbeard.pdf), Racter – 1984
+- [_First Screening_](http://www.vispo.com/bp/javascriptversion.htm), bpNichol – 1984
 - [_afternoon, a story_](https://eastgate.com/catalog/Afternoon.html), Michael Joyce – 1987
 - [_Patchwork Girl_](https://www.eastgate.com/catalog/PatchworkGirl.html), Shelley Jackson – 1995
 - [wwwwwwwww.jodi.org](http://wwwwwwwww.jodi.org/), Jodi – 1995
@@ -23,24 +24,13 @@
 
 **Twitterature:**
 
-https://twitter.com/samuelpepys
-https://twitter.com/KimKierkegaard
-https://twitter.com/everyword
-horse e-books: https://twitter.com/horse_ebooks !!! (https://www.theatlantic.com/technology/archive/2013/09/-horse-ebooks-is-the-most-successful-piece-of-cyber-fiction-ever/279946/)
- 
-http://www.longestpoemintheworld.com/
+- https://twitter.com/samuelpepys
+- https://twitter.com/KimKierkegaard
+- https://twitter.com/everyword
+- https://twitter.com/horse_ebooks (https://www.theatlantic.com/technology/archive/2013/09/-horse-ebooks-is-the-most-successful-piece-of-cyber-fiction-ever/279946/)
+- http://www.longestpoemintheworld.com/
 
 ### A N T H O L O G I E S   &   A R C H I V E S :
-- [UbuWeb](http://www.ubu.com/)
-- 
+- http://www.ubu.com/
+- http://collection.eliterature.org/1/
 
-
-http://www.ubu.com/concept/
-https://fathom.info/traces/
-http://collection.eliterature.org/1/
-https://cnx.org/contents/Be42N3TD@2/The-Readies-by-Bob-Brown
-https://joerg.piringer.net/index.php?href=projects.xml&mtitle=projects
-http://www.vispo.com/bp/javascriptversion.htm
-UVic Endings project  
-
-As We May Think
