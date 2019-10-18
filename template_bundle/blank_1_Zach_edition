@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1>Heading</h1>
+</head>
+<body>
+
+<!-- Adjust font: -->
+<p style="font-family:georgia"> Here is some text.</p>
+
+<!-- Add hyperlink: -->
+
+<p><a href="https://github.com/cmccraw/digitalTextuality">& a hyperlink, baby!</a></p>
+
+<!-- Here is an image: -->
+<p>Me on Friday night:</p> 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fc9%2F85%2F60%2Fc98560f0965cf77e45c965ffddc66b17.jpg&f=1&nofb=1" alt="cute, gray kitten" >
+
+<p>Me on Monday morning</p>
+<img src="45875477134_9535fea025_b.jpeg" alt="old, scary cat">
+
+</body>
+</html>
