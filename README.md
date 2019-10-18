@@ -1,7 +1,7 @@
 ## Digital Textuality
 
-Friday, Oct. 18, 2019
-Center for Textual Studies and Digital Humanities, Loyola University Chicago
+_Friday, Oct. 18, 2019
+Center for Textual Studies and Digital Humanities, Loyola University Chicago_
 
-Caroline McCraw
+**Caroline McCraw**</br>
 M.A., Digital Humanities
