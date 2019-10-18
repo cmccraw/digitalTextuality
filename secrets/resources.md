@@ -27,7 +27,8 @@
 - https://twitter.com/samuelpepys
 - https://twitter.com/KimKierkegaard
 - https://twitter.com/everyword
-- https://twitter.com/horse_ebooks (https://www.theatlantic.com/technology/archive/2013/09/-horse-ebooks-is-the-most-successful-piece-of-cyber-fiction-ever/279946/)
+- https://twitter.com/horse_ebooks 
+  - https://www.theatlantic.com/technology/archive/2013/09/-horse-ebooks-is-the-most-successful-piece-of-cyber-fiction-ever/279946/
 - http://www.longestpoemintheworld.com/
 
 ### A N T H O L O G I E S   &   A R C H I V E S :
