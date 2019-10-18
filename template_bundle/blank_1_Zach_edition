@@ -13,11 +13,17 @@
 <p><a href="https://github.com/cmccraw/digitalTextuality">& a hyperlink, baby!</a></p>
 
 <!-- Here is an image: -->
+&nbsp; 
+&nbsp; 
+&nbsp; 
 <p>Me on Friday night:</p> 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fc9%2F85%2F60%2Fc98560f0965cf77e45c965ffddc66b17.jpg&f=1&nofb=1" alt="cute, gray kitten" >
 
-<p>Me on Monday morning</p>
-<img src="45875477134_9535fea025_b.jpeg" alt="old, scary cat">
-
+<p>Me on Monday morning:</p>
+<img src="href="https://github.com/cmccraw/digitalTextuality/template_bundle/45875477134_9535fea025_b.jpeg" alt="old, scary cat">
+&nbsp; 
+&nbsp; 
+&nbsp; 
+<p>By: Zach Stella</p>
 </body>
 </html>
