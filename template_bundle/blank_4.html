@@ -19,7 +19,7 @@
 		for(i=0;i<source2.length;i++)	{
 				flower = document.createElement('div');
 				flower.setAttribute('id', 'flower'+i);
-				flower.setAttribute('style','position: absolute; top:' + Math.floor(Math.random()*window.innerHeight-50)+ 'px; left: '+ Math.floor(Math.random()*window.innerWidth-50)+ 'px;');
+				flower.setAttribute('style','position: absolute; top:' + Math.floor(Math.random()*window.innerHeight-50)+ 'px; left: '+ Math.floor(Math.random()*window.innerWidth-50)+ 'px; background: #e1ad01; text-color: #800080;');
 				flower.innerHTML= source2[i];
 				document.body.appendChild(flower);
 				angle+=360/source2.length;
@@ -32,7 +32,7 @@
 	
 	</script>
 </head>
-<body>
+<body style="background-color:brown">
 
 </body>
 </html>
