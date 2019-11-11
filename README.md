@@ -10,7 +10,7 @@ Center for Textual Studies and Digital Humanities – Loyola University Chicago_
 
 :heavy_plus_sign: [Lecture](https://github.com/cmccraw/digitalTextuality/blob/master/CMcCraw_DigitalTextuality_Lecture_10-18-19.pdf)
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ### A C T I V I T Y :
 
