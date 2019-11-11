@@ -8,6 +8,8 @@ M.A., Digital Humanities
 <sup>_Friday, Oct. 18, 2019</br>
 Center for Textual Studies and Digital Humanities – Loyola University Chicago_</sup>
 
+:heavy_plus_sign: [Lecture](https://github.com/cmccraw/digitalTextuality/blob/master/CMcCraw_DigitalTextuality_Lecture_10-18-19.pdf)
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ### A C T I V I T Y :
